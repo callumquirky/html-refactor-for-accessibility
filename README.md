@@ -16,11 +16,11 @@ Please see a summary of changes below:
 * All images (except from the background image) now have alt-text describing them for accessibility purposes.
 
 ### CSS
-* Many redundant classes have been removed and replaced with a single class applied too all necessary elements. For example, instead of having separate classes for 'search-engine-optimisation', 'online-reputation', and 'social-media-marketing', these are now all styled under the class 'key-features'
+* Many redundant classes have been removed and replaced with a single class applied to all necessary elements. For example, instead of having separate classes for 'search-engine-optimisation', 'online-reputation', and 'social-media-marketing', these are now all styled under the class 'key-features'
 
 * Where possible, elements are now styled directly rather than having classes applied to them. For example the CSS now styles footer h2 rather than having a h2 with the class 'footer-heading'.
 
-* The CSS rules have been reorganised. All HTML elements are styled first, before moving onto classes that are arranged in order of their appearance in HTML.
+* The CSS rules have been reorganised. All HTML elements are styled first, before moving onto classes that are generally arranged in order of their appearance in HTML.
 
 
 ## Usage 
@@ -33,6 +33,7 @@ https://github.com/callumquirky/html-refactor-for-accessibility
 
 Here is a screenshot of the finished website:
 ![finished site screenshot](assets/images/finished-screenshot.png)
+
 ## License
 
 This project used the MIT license.
