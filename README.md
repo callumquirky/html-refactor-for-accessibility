@@ -11,7 +11,7 @@ Please see a summary of changes below:
 
 * Padding has been removed from the header.
 
-* Previously in this code the sections were defined with non-semantic HTML elements, eg 'div class=header', rather than just using the 'header' tag. This has been fixed to use semantic HTML where possible.
+* Previously in this code the sections were defined with non-semantic HTML elements, eg 'div class=header', rather than just using the 'header' tag. This has been fixed to use semantic HTML where possible. Main and nav tags now added in the same vain.
 
 * All images (except from the background image) now have alt-text describing them for accessibility purposes.
 
