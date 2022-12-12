@@ -26,9 +26,10 @@ Please see a summary of changes below:
 ## Usage 
 
 You can visit this site on GitHub pages at the following link:
-
+https://callumquirky.github.io./html-refactor-for-accessibility/
 
 Please feel free to view the GitHub repository here: 
+https://github.com/callumquirky/html-refactor-for-accessibility
 
 Here is a screenshot of the finished website:
 [finished site screenshot](assets\finished-screenshot.png)
@@ -38,4 +39,3 @@ This project used the MIT license.
 
 
 ---
-
