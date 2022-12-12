@@ -2,7 +2,7 @@
 
 ## Description 
 
-This project was a refactor of existing HTMl and CSS make it more accessible by means of adding semantic HTML elements and alt text for images. In addition to this, the overall code has been cleaned up and made to be more efficient, particularly in the CSS that previously had many redundant classes.
+This project was a refactor of existing HTML and CSS make it more accessible by means of adding semantic HTML elements and alt text for images. In addition to this, the overall code has been cleaned up and made to be more efficient, particularly in the CSS that previously had many redundant classes.
 
 Please see a summary of changes below:
 
