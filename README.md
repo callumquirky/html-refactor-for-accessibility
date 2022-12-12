@@ -32,7 +32,7 @@ Please feel free to view the GitHub repository here:
 https://github.com/callumquirky/html-refactor-for-accessibility
 
 Here is a screenshot of the finished website:
-[finished site screenshot](assets\images\finished-screenshot.png)
+![finished site screenshot](assets\images\finished-screenshot.png)
 ## License
 
 This project used the MIT license.
