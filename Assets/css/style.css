@@ -71,6 +71,10 @@ footer h2 {
     font-size: 20px;
 }
 
+.key-features img {
+    max-height: 200px;
+}
+
 .seo {
     color: #d9dcd6;
 }
@@ -84,7 +88,7 @@ footer h2 {
     background-position: center;
 }
 
-.key_features {
+.key-features {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -94,9 +98,6 @@ footer h2 {
     color: #ffffff;
 }
 
-.key_features_images {
-    max-height: 200px;
-}
 
 .float-left {
     float: left;
